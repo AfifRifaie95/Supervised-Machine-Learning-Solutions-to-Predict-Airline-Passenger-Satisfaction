@@ -12,10 +12,7 @@ results demonstrate that the tuned Gradient Boosting has achieved the highest ac
 personal type of travel being significant predictors of satisfaction. 
 
 # Model Validation
-Model                     Train  Accuracy    Test  Accuracy   Precision (Class 1)  Recall (Class 1)  F1 Score (Class 1)  ROC-AUC
-Base K–Nearest Neighbor   94.3%               91.8%           94.4%                 86.3%             90.2%               96.0%
-Tuned Random Forest       93.7%               93.1%           95.5%                 88.3%             91.8%               98.0%
-Tuned Gradient Boosting   97.4%               95.0%           97.1%                 91.4%             94.2%               99.0%
+<img width="811" alt="image" src="https://github.com/user-attachments/assets/6c22d094-e56f-474d-8648-15bd882f6877" />
 
                                       Table 1: Model Evaluation
 
