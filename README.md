@@ -35,19 +35,9 @@ critical feature, followed by Inflight Wi-Fi service, Class (Economy), Type of T
 Travel), and Inflight entertainment. Other features like Departure Delay in Minutes, Food and
 Drink, and Gender (Male) have minimal impact.
 
-Model                 True Negativec(Class 0)  True Positives (Class 1)  False Positives (Class 0)  False Negatives (Class 1)
-Base K–Neares Neighbor 11,228                   7,841                     469                        1,243
-Tuned K–Nearest
-Neighbor 11,276 7,987 421 1,097
-Base Random
-Forest 11,469 8,232 228 852
-Tuned Random
-Forest 11,320 8,020 377 1,064
-Base Gradient
-Boosting 11,243 8,085 454 999
-Tuned Gradient
-Boosting 11,451 8,299 246 785
-Table 4: Confusion Matric Model Evaluation
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/3bfafcbb-d152-4378-8761-422616b548a9" />
+                                      Table 2: Confusion Matrix Evaluation
+
 The tuned Gradient Boosting confusion matrix also shows better precision and recall, it shows
 enhanced performance and better generalization across all models. It achieved TN (11,451)
 and TP (8,299) while reducing FP (246) and FN (785).
