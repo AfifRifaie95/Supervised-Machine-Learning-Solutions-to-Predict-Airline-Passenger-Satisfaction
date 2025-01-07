@@ -36,6 +36,7 @@ Travel), and Inflight entertainment. Other features like Departure Delay in Minu
 Drink, and Gender (Male) have minimal impact.
 
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/3bfafcbb-d152-4378-8761-422616b548a9" />
+                                      
                                       Table 2: Confusion Matrix Evaluation
 
 The tuned Gradient Boosting confusion matrix also shows better precision and recall, it shows
